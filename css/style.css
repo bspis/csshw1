@@ -1,0 +1,42 @@
+body{
+  font-family: verdana, calibri, sans-serif;
+  font-size: 100%;
+}
+
+header {
+  background-color: #177462;
+}
+
+nav {
+  background-color:#9fcde5;
+  text-align: center;
+}
+
+main {
+  background-color: #dccf94;
+  font-size: 100%;
+}
+
+footer {
+  background-color: #9fcde5;
+}
+
+h1 {
+  text-align: center;
+  font-family: vivaldi, cursive, serif;
+  color: #fff;
+  font-size: 300%;
+}
+
+li {
+  display: inline-block;
+  width: 250 px;
+}
+
+a {
+  color: #177462;
+}
+
+p {
+  line-height: 150%;
+}
